@@ -18,7 +18,7 @@ A simple terminal-based encrypted chat system built using Node.js and TCP. This 
 1. **Clone the Repository**:
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone 
+   git clone https://github.com/mernshihab/EncryptedChat_Server.git
 
    
 To start the server, run:
